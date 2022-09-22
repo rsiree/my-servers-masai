@@ -1,0 +1,25 @@
+{
+  "name": "my-servers-masai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsiree/my-servers-masai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsiree/my-servers-masai/issues"
+  },
+  "homepage": "https://github.com/rsiree/my-servers-masai#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "node": "^18.9.0"
+  }
+}
