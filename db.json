@@ -1,5 +1,12 @@
 {
-  "registered":[],
+  "registered":[
+    {
+    "fullName": "SIREESHA", 
+    "lastName": "RAVULAPALLI", 
+    "email": "sireesha.r96@gmail.com", 
+    "password": "123456"
+   }
+  ],
   "login_teachers":[],
   "students":[],
   "tests":[]
