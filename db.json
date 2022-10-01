@@ -9,24 +9,30 @@
   ],
   "login_teachers":[
     {
-      "email":"",
-      "password":""
+      "email": "sireesha.r96@gmail.com", 
+      "password": "123456"
     }
   ],
   "students":[
     {
-      "name":"",
-      "gender":"",
-      "age":"",
-      "tests":[]
+      "name":"Nihi",
+      "gender":"female",
+      "age":"20",
+      "tests":["maths","science"]
+    },
+    {
+      "name":"Sruthi",
+      "gender":"female",
+      "age":"21",
+      "tests":["science","computers"]
     }
   ],
   "tests":[
     {
-    "name":"",
-    "subject":"",
-    "marks":"",
-    "date":""
+    "name":"Nihi",
+    "subject":"Maths",
+    "marks":"90",
+    "date":"18:09:2022"
     }
   ]
 }
