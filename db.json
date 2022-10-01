@@ -1,26 +1,6 @@
 {
-    "hotels":[
-        {
-            "id":1,
-          "category": "deluxe",
-          "image_url": "",
-          "type_of_room": "AC",
-          "bed_type": "single",
-              "no_of_persons":"1",
-              "capacity":"2",
-              "cost":"500",
-              "booked":false
-        },
-        {
-          "id":2,
-        "category": "deluxe",
-        "image_url": "",
-        "type_of_room": "AC",
-        "bed_type": "double",
-            "no_of_persons":"3",
-            "capacity":"4",
-            "cost":"2500",
-            "booked":false
-      }
-      ]
+  "registered":[],
+  "login_teachers":[],
+  "students":[],
+  "tests":[]
 }
