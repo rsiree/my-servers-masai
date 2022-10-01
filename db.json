@@ -7,7 +7,26 @@
     "password": "123456"
    }
   ],
-  "login_teachers":[],
-  "students":[],
-  "tests":[]
+  "login_teachers":[
+    {
+      "email":"",
+      "password":""
+    }
+  ],
+  "students":[
+    {
+      "name":"",
+      "gender":"",
+      "age":"",
+      "tests":[]
+    }
+  ],
+  "tests":[
+    {
+    "name":"",
+    "subject":"",
+    "marks":"",
+    "date":""
+    }
+  ]
 }
