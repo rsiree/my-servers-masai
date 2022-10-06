@@ -1,4 +1,10 @@
 {
-  "users":[]
+  "user":[
+    {
+    "name":"siri",
+    "score":0
+    }
+
+  ]
   
 }
