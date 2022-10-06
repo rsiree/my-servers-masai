@@ -1,8 +1,9 @@
 {
-  "user":[
+  "users":[
     {
     "name":"siri",
-    "score":0
+    "score":0,
+    "id":1
     }
 
   ]
