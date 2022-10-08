@@ -1,7 +1,8 @@
 {
   "users":[
     {
-    "name":"siri",
+    "name":"game",
+    "difficulty":"low",
     "score":0,
     "id":1
     }
